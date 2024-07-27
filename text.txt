@@ -4,3 +4,5 @@ Hello Git
 
 
 ups lol
+
+console.log('Test 2')
